@@ -1,0 +1,193 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.profile-dQB {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ededed;
+}
+.profile-dQB .auto-group-rzrj-NsZ {
+  box-sizing: border-box;
+  padding: 5.2rem 6rem 12rem 6rem;
+  width: 42rem;
+  height: 102.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #3baeab;
+  flex-shrink: 0;
+}
+.profile-dQB .auto-group-rzrj-NsZ .e-collectlogo-2-4kP {
+  margin-bottom: 5.2rem;
+  width: 30rem;
+  height: 30rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.profile-dQB .auto-group-rzrj-NsZ .auto-group-7vov-Pnf {
+  margin: 0rem 10.4rem 10rem 3.1rem;
+  width: calc(100% - 13.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.profile-dQB .auto-group-rzrj-NsZ .auto-group-7vov-Pnf .vector-7Cs {
+  margin-right: 2.3rem;
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.profile-dQB .auto-group-rzrj-NsZ .auto-group-7vov-Pnf .home-rAT {
+  margin-top: 0.2rem;
+  font-size: 3.6rem;
+  font-weight: 900;
+  line-height: 0.92;
+  color: #ffffff;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-dQB .auto-group-rzrj-NsZ .auto-group-53a7-M7D {
+  margin: 0rem 9rem 10rem 3.1rem;
+  width: calc(100% - 12.1rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.profile-dQB .auto-group-rzrj-NsZ .auto-group-53a7-M7D .vector-HFm {
+  margin-right: 2.3rem;
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.profile-dQB .auto-group-rzrj-NsZ .auto-group-53a7-M7D .profile-pWb {
+  font-size: 3.6rem;
+  font-weight: 900;
+  line-height: 0.92;
+  color: #ffffff;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-dQB .auto-group-rzrj-NsZ .auto-group-gbwd-ZUB {
+  margin: 0rem 1.8rem 10rem 3.1rem;
+  width: calc(100% - 4.9rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.profile-dQB .auto-group-rzrj-NsZ .auto-group-gbwd-ZUB .vector-Vsd {
+  margin-right: 2.3rem;
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.profile-dQB .auto-group-rzrj-NsZ .auto-group-gbwd-ZUB .dashboard-2sZ {
+  font-size: 3.6rem;
+  font-weight: 900;
+  line-height: 0.92;
+  color: #ffffff;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-dQB .auto-group-rzrj-NsZ .auto-group-z97m-NgX {
+  margin: 0rem 0.1rem 0rem 3.1rem;
+  width: calc(100% - 3.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.profile-dQB .auto-group-rzrj-NsZ .auto-group-z97m-NgX .frame-VWF {
+  margin-right: 2.3rem;
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.profile-dQB .auto-group-rzrj-NsZ .auto-group-z97m-NgX .notification-e8F {
+  margin-top: 0rem;
+  font-size: 3.6rem;
+  font-weight: 900;
+  line-height: 0.92;
+  color: #ffffff;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-dQB .auto-group-jpgb-xej {
+  box-sizing: border-box;
+  padding: 21.8rem 6.7rem 21.7rem 6.7rem;
+  width: 102rem;
+  height: 82.4rem;
+  background-color: #ffffff;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.profile-dQB .auto-group-jpgb-xej .frame-9-GvK {
+  width: 27.2rem;
+  height: 100%;
+  row-gap: 9.9rem;
+  display: flex;
+  flex-direction: column;
+}
+.profile-dQB .auto-group-jpgb-xej .frame-9-GvK .full-name-QWj {
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 0.92;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-dQB .auto-group-jpgb-xej .frame-9-GvK .email-MB5 {
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 0.92;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-dQB .auto-group-jpgb-xej .frame-9-GvK .g-cash-account-name-hEw {
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 0.92;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-dQB .auto-group-jpgb-xej .frame-9-GvK .g-cash-account-number-csh {
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 0.92;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

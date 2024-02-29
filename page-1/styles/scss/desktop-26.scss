@@ -1,0 +1,102 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-26-7GK {
+  display: flex;
+  align-items: flex-start;
+  background-color: #3badab;
+  box-sizing: border-box;
+  padding-right: 25rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+
+  .logo-without-reverse-2-qi7 {
+    margin-right: 4.4rem;
+    width: 20.6rem;
+    height: 20.6rem;
+    object-fit: cover;
+    vertical-align: top;
+    flex-shrink: 0;
+  }
+  .auto-group-znfh-a9u {
+    margin-top: 19rem;
+    padding: 6.1rem 4.7rem 1.5rem 16.05rem;
+    display: flex;
+    background-color: #ffffff;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    width: 94rem;
+    align-items: center;
+    flex-direction: column;
+
+    .auto-group-yvmv-fx3 {
+      box-sizing: border-box;
+      padding: 22.7rem 0rem 2.75rem 0rem;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+
+      .points-sent-to-your-account-CSB {
+        margin-bottom: 7.15rem;
+        width: 100%;
+        max-width: 39.8rem;
+        display: flex;
+        justify-content: center;
+        font-weight: 700;
+        line-height: 0.92;
+        color: #000000;
+        flex-shrink: 0;
+        align-items: center;
+        font-size: 4.8rem;
+        font-family: League Spartan, 'Source Sans Pro';
+      }
+      .your-points-have-been-successfully-transferred-please-check-your-account-tZu {
+        max-width: 61.8rem;
+        align-items: center;
+        line-height: 0.92;
+        flex-shrink: 0;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        font-size: 3.2rem;
+        font-weight: 400;
+        color: #000000;
+        font-family: League Spartan, 'Source Sans Pro';
+      }
+    }
+    .frame-19-PFm {
+      line-height: 0.92;
+      white-space: nowrap;
+      margin: 0rem 29.8rem 0rem 18.45rem;
+      display: flex;
+      align-items: center;
+      font-size: 3.2rem;
+      font-weight: 700;
+      color: #ffffff;
+      font-family: League Spartan, 'Source Sans Pro';
+      border: solid 0.5rem #3badab;
+      height: 9rem;
+      background-color: #3badab;
+      box-sizing: border-box;
+      border-radius: 5rem;
+      justify-content: center;
+      flex-shrink: 0;
+      width: calc(100% - 48.25rem);
+    }
+  }
+}

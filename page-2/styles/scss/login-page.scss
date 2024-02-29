@@ -1,0 +1,117 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.login-page-36F {
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  box-sizing: border-box;
+  padding-right: 14.2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+
+  .frame-1-By9 {
+    background-color: #3badab;
+    flex-shrink: 0;
+    margin-right: 16.6rem;
+    box-sizing: border-box;
+    padding: 14.95rem 0.35rem;
+    height: 102.4rem;
+
+    .e-collectlogo-1-L5M {
+      height: 72.5rem;
+      object-fit: cover;
+      vertical-align: top;
+      width: 72.5rem;
+    }
+  }
+  .auto-group-qmsx-52w {
+    flex-shrink: 0;
+    margin-bottom: 10.3rem;
+    width: 40rem;
+
+    .login-d4T {
+      font-weight: 700;
+      line-height: 0.92;
+      white-space: nowrap;
+      width: 100%;
+      font-size: 4rem;
+      align-items: center;
+      justify-content: center;
+      color: #3badab;
+      font-family: League Spartan, 'Source Sans Pro';
+      margin-bottom: 2.4rem;
+      display: flex;
+    }
+    .frame-9-wqq {
+      width: 100%;
+      row-gap: 5rem;
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+      background-color: #ffffff;
+      box-sizing: border-box;
+      padding: 1rem 1rem 21.4rem 1rem;
+
+      .frame-5-U55 {
+        padding: 0.95rem 1rem;
+        width: 100%;
+        display: flex;
+        color: rgba(0, 0, 0, 0.3600000143);
+        border: solid 0.1rem #000000;
+        flex-shrink: 0;
+        box-sizing: border-box;
+        font-size: 2.4rem;
+        font-weight: 400;
+        line-height: 0.92;
+        font-family: League Spartan, 'Source Sans Pro';
+        white-space: nowrap;
+      }
+      .frame-8-xkw {
+        width: 100%;
+        line-height: 0.92;
+        font-family: League Spartan, 'Source Sans Pro';
+        flex-shrink: 0;
+        border: solid 0.1rem #000000;
+        box-sizing: border-box;
+        padding: 0.95rem 1rem;
+        display: flex;
+        font-size: 2.4rem;
+        font-weight: 400;
+        color: rgba(0, 0, 0, 0.3600000143);
+        white-space: nowrap;
+      }
+      .frame-11-54s {
+        width: 100%;
+        line-height: 0.92;
+        font-family: League Spartan, 'Source Sans Pro';
+        white-space: nowrap;
+        border: solid 0.1rem #000000;
+        box-sizing: border-box;
+        justify-content: center;
+        font-size: 2.4rem;
+        color: #ffffff;
+        background-color: #3badab;
+        display: flex;
+        align-items: center;
+        height: 4.2rem;
+        font-weight: 400;
+        flex-shrink: 0;
+      }
+    }
+  }
+}

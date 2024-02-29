@@ -1,0 +1,129 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-8-wfm {
+  box-sizing: border-box;
+  padding-right: 9.5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ededed;
+}
+.desktop-8-wfm .frame-10-gtF {
+  margin: 0rem 10.5rem 0.6rem 0rem;
+  width: 42rem;
+  height: 101.8rem;
+  position: relative;
+  background-color: #3badab;
+  flex-shrink: 0;
+}
+.desktop-8-wfm .frame-10-gtF .home-profile-dashboard-notification-RL3 {
+  width: 17.5rem;
+  height: 84.4rem;
+  position: absolute;
+  left: 10rem;
+  top: 8.85rem;
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-8-wfm .frame-10-gtF .e-collectlogo-2-uW7 {
+  width: 28.2rem;
+  height: 28.2rem;
+  position: absolute;
+  left: 6.9rem;
+  top: 0.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-8-wfm .auto-group-r2oh-Dmh {
+  margin-bottom: 8rem;
+  width: 82rem;
+  flex-shrink: 0;
+}
+.desktop-8-wfm .auto-group-r2oh-Dmh .redeem-rewards-N8o {
+  margin-bottom: 3.7rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 0.92;
+  color: #3badab;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-8-wfm .auto-group-r2oh-Dmh .frame-14-6ab {
+  box-sizing: border-box;
+  padding: 6.6rem 5.6rem 20.65rem 5.6rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #3badab;
+  border-radius: 5rem;
+}
+.desktop-8-wfm .auto-group-r2oh-Dmh .frame-14-6ab .details-received-2j9 {
+  margin: 0rem 0rem 10.85rem 3.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 0.92;
+  color: #ffffff;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-8-wfm .auto-group-r2oh-Dmh .frame-14-6ab .amount-account-name-account-number-w5R {
+  margin-right: 43.4rem;
+  max-width: 27.4rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 0.92;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-8-wfm .auto-group-r2oh-Dmh .frame-14-6ab .amount-account-name-account-number-w5R .amount-account-name-account-number-w5R-sub-0 {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 0.92;
+  color: #ffffff;
+  font-family: League Spartan, 'Source Sans Pro';
+}
+.desktop-8-wfm .auto-group-r2oh-Dmh .frame-14-6ab .amount-account-name-account-number-w5R .amount-account-name-account-number-w5R-sub-1 {
+}
+.desktop-8-wfm .auto-group-r2oh-Dmh .frame-14-6ab .amount-account-name-account-number-w5R .amount-account-name-account-number-w5R-sub-2 {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 0.92;
+  color: #ffffff;
+  font-family: League Spartan, 'Source Sans Pro';
+}
+.desktop-8-wfm .auto-group-r2oh-Dmh .frame-14-6ab .amount-account-name-account-number-w5R .amount-account-name-account-number-w5R-sub-3 {
+}
+.desktop-8-wfm .auto-group-r2oh-Dmh .frame-14-6ab .amount-account-name-account-number-w5R .amount-account-name-account-number-w5R-sub-4 {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 0.92;
+  color: #ffffff;
+  font-family: League Spartan, 'Source Sans Pro';
+}

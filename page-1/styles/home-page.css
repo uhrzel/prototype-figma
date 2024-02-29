@@ -1,0 +1,229 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.home-page-VSX {
+  box-sizing: border-box;
+  padding-right: 21.2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ededed;
+}
+.home-page-VSX .auto-group-qhfm-bVZ {
+  margin-right: 21.2rem;
+  box-sizing: border-box;
+  padding: 5.2rem 6rem 12rem 6rem;
+  width: 42rem;
+  height: 102.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #3baeab;
+  flex-shrink: 0;
+}
+.home-page-VSX .auto-group-qhfm-bVZ .e-collectlogo-2-Rsu {
+  margin-bottom: 5.2rem;
+  width: 30rem;
+  height: 30rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-VSX .auto-group-qhfm-bVZ .auto-group-lxep-8XR {
+  margin: 0rem 10.4rem 10rem 3.1rem;
+  width: calc(100% - 13.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-VSX .auto-group-qhfm-bVZ .auto-group-lxep-8XR .vector-TJo {
+  margin-right: 2.3rem;
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-VSX .auto-group-qhfm-bVZ .auto-group-lxep-8XR .home-yH9 {
+  margin-top: 0.2rem;
+  font-size: 3.6rem;
+  font-weight: 900;
+  line-height: 0.92;
+  color: #ffffff;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-VSX .auto-group-qhfm-bVZ .auto-group-nrrm-rbq {
+  margin: 0rem 9rem 10rem 3.1rem;
+  width: calc(100% - 12.1rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-VSX .auto-group-qhfm-bVZ .auto-group-nrrm-rbq .vector-nkP {
+  margin-right: 2.3rem;
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-VSX .auto-group-qhfm-bVZ .auto-group-nrrm-rbq .profile-8ZM {
+  font-size: 3.6rem;
+  font-weight: 900;
+  line-height: 0.92;
+  color: #ffffff;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-VSX .auto-group-qhfm-bVZ .auto-group-go67-sG3 {
+  margin: 0rem 1.8rem 10rem 3.1rem;
+  width: calc(100% - 4.9rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-VSX .auto-group-qhfm-bVZ .auto-group-go67-sG3 .vector-aAT {
+  margin-right: 2.3rem;
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-VSX .auto-group-qhfm-bVZ .auto-group-go67-sG3 .dashboard-7gB {
+  font-size: 3.6rem;
+  font-weight: 900;
+  line-height: 0.92;
+  color: #ffffff;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-VSX .auto-group-qhfm-bVZ .auto-group-xyzv-F1h {
+  margin: 0rem 0.1rem 0rem 3.1rem;
+  width: calc(100% - 3.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-VSX .auto-group-qhfm-bVZ .auto-group-xyzv-F1h .frame-kz3 {
+  margin-right: 2.3rem;
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-VSX .auto-group-qhfm-bVZ .auto-group-xyzv-F1h .notification-JVm {
+  margin-top: 0rem;
+  font-size: 3.6rem;
+  font-weight: 900;
+  line-height: 0.92;
+  color: #ffffff;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-VSX .auto-group-sp4k-Qoh {
+  margin-top: 2.2rem;
+  width: 59.6rem;
+  flex-shrink: 0;
+}
+.home-page-VSX .auto-group-sp4k-Qoh .e-collect-e-waste-reverse-vending-machine-xKR {
+  margin-bottom: 5rem;
+  max-width: 58.7rem;
+  font-size: 5.5rem;
+  font-weight: 400;
+  line-height: 1.1067708796;
+  letter-spacing: 0.55rem;
+  color: #000000;
+  font-family: League Script, 'Source Sans Pro';
+}
+.home-page-VSX .auto-group-sp4k-Qoh .e-collect-e-waste-reverse-vending-machine-xKR .e-collect-e-waste-reverse-vending-machine-xKR-sub-0 {
+  font-size: 5.5rem;
+  font-weight: 800;
+  line-height: 0.92;
+  letter-spacing: 0.55rem;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+}
+.home-page-VSX .auto-group-sp4k-Qoh .e-collect-e-waste-reverse-vending-machine-xKR .e-collect-e-waste-reverse-vending-machine-xKR-sub-1 {
+  font-size: 5.5rem;
+  font-weight: 900;
+  line-height: 0.92;
+  letter-spacing: 0.55rem;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+}
+.home-page-VSX .auto-group-sp4k-Qoh .our-machine-uses-state-of-art-images-processing-technology-to-quickly-and-accurately-detect-and-classify-types-of-e-waste-item-based-on-their-visual-features-when-you-deposit-your-e-waste-into-the-machines-you-will-be-rewarded-with-points-that-can-be-redeemed-for-goods-and-services-at-participating-merchants-FrF {
+  margin-bottom: 9.1rem;
+  max-width: 59.6rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 0.92;
+  letter-spacing: 0.3rem;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+}
+.home-page-VSX .auto-group-sp4k-Qoh .auto-group-qvk9-e7h {
+  margin-right: 7.9rem;
+  width: calc(100% - 7.9rem);
+  height: 8rem;
+  display: flex;
+  align-items: center;
+}
+.home-page-VSX .auto-group-sp4k-Qoh .auto-group-qvk9-e7h .frame-2-NZV {
+  margin-right: 9.6rem;
+  width: 26rem;
+  height: 100%;
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3baeab;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.home-page-VSX .auto-group-sp4k-Qoh .auto-group-qvk9-e7h .already-using-e-collect-sign-in-39q {
+  margin-top: 1.7rem;
+  max-width: 16.1rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.92;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-VSX .auto-group-sp4k-Qoh .auto-group-qvk9-e7h .already-using-e-collect-sign-in-39q .already-using-e-collect-sign-in-39q-sub-0 {
+}
+.home-page-VSX .auto-group-sp4k-Qoh .auto-group-qvk9-e7h .already-using-e-collect-sign-in-39q .already-using-e-collect-sign-in-39q-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.92;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+}

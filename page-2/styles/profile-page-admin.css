@@ -1,0 +1,153 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.profile-page-admin-q3M {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ededed;
+}
+.profile-page-admin-q3M .rectangle-1-mSo {
+  width: 144rem;
+  height: 20rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #3badab;
+}
+.profile-page-admin-q3M .e-collectlogo-1-7Wf {
+  width: 30rem;
+  height: 30rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.profile-page-admin-q3M .e-collect-4Ru {
+  width: 28.3rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 23.6rem;
+  top: 7rem;
+  font-size: 4.8rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #88ca5e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.profile-page-admin-q3M .frame-1-mbD {
+  width: 74.9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 60.8rem;
+  top: 9.1rem;
+  display: flex;
+  align-items: flex-start;
+}
+.profile-page-admin-q3M .frame-1-mbD .home-6tP {
+  margin-right: 8.8rem;
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 0.92;
+  color: #ffffff;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-page-admin-q3M .frame-1-mbD .profile-e9D {
+  margin-right: 8.8rem;
+  font-size: 2.6rem;
+  font-weight: 900;
+  line-height: 0.92;
+  color: #ffffff;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-page-admin-q3M .frame-1-mbD .dashboard-Bew {
+  margin-right: 9.3rem;
+  font-size: 2.6rem;
+  font-weight: 900;
+  line-height: 0.92;
+  color: #ffffff;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-page-admin-q3M .frame-1-mbD .notification-72o {
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 0.92;
+  color: #ffffff;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-page-admin-q3M .rectangle-4-dWw {
+  width: 94rem;
+  height: 82.4rem;
+  position: absolute;
+  left: 25rem;
+  top: 20rem;
+  background-color: #ffffff;
+  border-radius: 5rem;
+}
+.profile-page-admin-q3M .frame-7-vW3 {
+  width: 11.1rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 31.9rem;
+  top: 42.4rem;
+}
+.profile-page-admin-q3M .frame-7-vW3 .full-name-reb {
+  margin-bottom: 9.9rem;
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 0.92;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.profile-page-admin-q3M .frame-7-vW3 .email-PuR {
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 0.92;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.profile-page-admin-q3M .frame-9-XVq {
+  width: 18rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 63.6rem;
+  top: 91.6rem;
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 0.92;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.3rem #000000;
+  box-sizing: border-box;
+  border-radius: 2rem;
+}

@@ -1,0 +1,134 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-6-KNF {
+  box-sizing: border-box;
+  padding-right: 9.5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ededed;
+}
+.desktop-6-KNF .frame-10-44w {
+  margin: 0rem 10.5rem 0.6rem 0rem;
+  width: 42rem;
+  height: 101.8rem;
+  position: relative;
+  background-color: #3badab;
+  flex-shrink: 0;
+}
+.desktop-6-KNF .frame-10-44w .home-profile-dashboard-notification-BfM {
+  width: 17.5rem;
+  height: 84.4rem;
+  position: absolute;
+  left: 10rem;
+  top: 8.85rem;
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-6-KNF .frame-10-44w .e-collectlogo-2-4j9 {
+  width: 28.2rem;
+  height: 28.2rem;
+  position: absolute;
+  left: 6.9rem;
+  top: 0.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-6-KNF .auto-group-bxi7-aBh {
+  margin-bottom: 2rem;
+  width: 82rem;
+  flex-shrink: 0;
+}
+.desktop-6-KNF .auto-group-bxi7-aBh .redeem-rewards-JtP {
+  margin-bottom: 2.7rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 0.92;
+  color: #3badab;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-6-KNF .auto-group-bxi7-aBh .auto-group-qgqu-qdR {
+  width: 100%;
+  height: 80rem;
+  position: relative;
+}
+.desktop-6-KNF .auto-group-bxi7-aBh .auto-group-qgqu-qdR .frame-14-Pew {
+  box-sizing: border-box;
+  padding: 19.8rem 13.5rem 19.2rem 13.5rem;
+  width: 82rem;
+  height: 75rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  row-gap: 9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #3badab;
+  border-radius: 5rem;
+}
+.desktop-6-KNF .auto-group-bxi7-aBh .auto-group-qgqu-qdR .frame-14-Pew .rectangle-11-6JT {
+  width: 100%;
+  height: 6rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.desktop-6-KNF .auto-group-bxi7-aBh .auto-group-qgqu-qdR .frame-14-Pew .rectangle-12-2C7 {
+  width: 100%;
+  height: 6rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.desktop-6-KNF .auto-group-bxi7-aBh .auto-group-qgqu-qdR .frame-14-Pew .rectangle-13-Zxj {
+  width: 100%;
+  height: 6rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.desktop-6-KNF .auto-group-bxi7-aBh .auto-group-qgqu-qdR .frame-16-uWo {
+  width: 30rem;
+  height: 10rem;
+  position: absolute;
+  left: 47.6rem;
+  top: 70rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 0.92;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.5rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 5rem;
+}

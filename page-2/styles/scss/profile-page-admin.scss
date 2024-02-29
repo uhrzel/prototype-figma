@@ -1,0 +1,156 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.profile-page-admin-q3M {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ededed;
+
+  .rectangle-1-mSo {
+    width: 144rem;
+    height: 20rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background-color: #3badab;
+  }
+  .e-collectlogo-1-7Wf {
+    width: 30rem;
+    height: 30rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+    object-fit: cover;
+    vertical-align: top;
+  }
+  .e-collect-4Ru {
+    height: 5.9rem;
+    font-size: 4.8rem;
+    font-weight: 900;
+    color: #88ca5e;
+    white-space: nowrap;
+    font-family: Inter, 'Source Sans Pro';
+    width: 28.3rem;
+    position: absolute;
+    left: 23.6rem;
+    top: 7rem;
+    line-height: 1.2125;
+  }
+  .frame-1-mbD {
+    width: 74.9rem;
+    height: 2.4rem;
+    position: absolute;
+    left: 60.8rem;
+    top: 9.1rem;
+    display: flex;
+    align-items: flex-start;
+
+    .home-6tP {
+      margin-right: 8.8rem;
+      font-size: 2.4rem;
+      font-weight: 900;
+      line-height: 0.92;
+      color: #ffffff;
+      font-family: League Spartan, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .profile-e9D {
+      color: #ffffff;
+      font-family: League Spartan, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-right: 8.8rem;
+      font-size: 2.6rem;
+      font-weight: 900;
+      line-height: 0.92;
+    }
+    .dashboard-Bew {
+      margin-right: 9.3rem;
+      font-size: 2.6rem;
+      font-weight: 900;
+      line-height: 0.92;
+      color: #ffffff;
+      font-family: League Spartan, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .notification-72o {
+      font-family: League Spartan, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      font-size: 2.4rem;
+      font-weight: 900;
+      line-height: 0.92;
+      color: #ffffff;
+    }
+  }
+  .rectangle-4-dWw {
+    position: absolute;
+    left: 25rem;
+    top: 20rem;
+    background-color: #ffffff;
+    border-radius: 5rem;
+    width: 94rem;
+    height: 82.4rem;
+  }
+  .frame-7-vW3 {
+    top: 42.4rem;
+    width: 11.1rem;
+    height: 14.5rem;
+    position: absolute;
+    left: 31.9rem;
+
+    .full-name-reb {
+      margin-bottom: 9.9rem;
+      font-size: 2.4rem;
+      font-weight: 900;
+      line-height: 0.92;
+      color: #000000;
+      font-family: League Spartan, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .email-PuR {
+      font-size: 2.4rem;
+      font-weight: 900;
+      line-height: 0.92;
+      color: #000000;
+      font-family: League Spartan, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+  }
+  .frame-9-XVq {
+    white-space: nowrap;
+    border-radius: 2rem;
+    left: 63.6rem;
+    color: #000000;
+    top: 91.6rem;
+    line-height: 0.92;
+    font-family: League Spartan, 'Source Sans Pro';
+    align-items: center;
+    box-sizing: border-box;
+    width: 18rem;
+    height: 4.2rem;
+    border: solid 0.3rem #000000;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    font-size: 2.4rem;
+    font-weight: 900;
+  }
+}

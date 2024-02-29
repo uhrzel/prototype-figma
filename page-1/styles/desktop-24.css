@@ -1,0 +1,218 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-24-R4B {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #3badab;
+}
+.desktop-24-R4B .rectangle-17-xK1 {
+  width: 120.5rem;
+  height: 7rem;
+  position: absolute;
+  left: 11.7rem;
+  top: 16.5rem;
+  background-color: #82cfcd;
+  border-radius: 1rem;
+}
+.desktop-24-R4B .rectangle-18-HcB {
+  width: 120.5rem;
+  height: 68.7rem;
+  position: absolute;
+  left: 11.7rem;
+  top: 21.9rem;
+  background-color: #ffffff;
+}
+.desktop-24-R4B .logo-without-reverse-2-dR9 {
+  width: 20.6rem;
+  height: 20.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-24-R4B .frame-18-N7q {
+  width: 45rem;
+  height: 9rem;
+  position: absolute;
+  left: 25.3rem;
+  top: 74.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 0.92;
+  color: #ffffff;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.5rem #3badab;
+  box-sizing: border-box;
+  background-color: #3badab;
+  border-radius: 5rem;
+}
+.desktop-24-R4B .frame-19-Efq {
+  width: 45rem;
+  height: 9rem;
+  position: absolute;
+  left: 73.6rem;
+  top: 74.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 0.92;
+  color: #ffffff;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.5rem #3badab;
+  box-sizing: border-box;
+  background-color: #3badab;
+  border-radius: 5rem;
+}
+.desktop-24-R4B .account-id-WNT {
+  width: 13.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 16rem;
+  top: 28.05rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 0.92;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-24-R4B .rectangle-19-DGs {
+  width: 112rem;
+  height: 5rem;
+  position: absolute;
+  left: 16rem;
+  top: 33.6rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.desktop-24-R4B .item-00001-LMV {
+  width: 8.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 19.4rem;
+  top: 35.05rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 0.92;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-24-R4B .waste-eNB {
+  width: 8.1rem;
+  height: 3rem;
+  position: absolute;
+  left: 16rem;
+  top: 42.15rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 0.92;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-24-R4B .rectangle-20-YyM {
+  width: 112rem;
+  height: 5rem;
+  position: absolute;
+  left: 16rem;
+  top: 46.7rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.desktop-24-R4B .total-points-HAF {
+  width: 15.1rem;
+  height: 3rem;
+  position: absolute;
+  left: 16rem;
+  top: 55.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 0.92;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-24-R4B .rectangle-21-C2K {
+  width: 112rem;
+  height: 5rem;
+  position: absolute;
+  left: 16rem;
+  top: 59.8rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.desktop-24-R4B .remote-phone-K6w {
+  width: 19.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 19.4rem;
+  top: 48.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 0.92;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-24-R4B .points-2GF {
+  width: 12.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 19.4rem;
+  top: 60.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 0.92;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+}

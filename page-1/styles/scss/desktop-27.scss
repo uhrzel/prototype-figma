@@ -1,0 +1,63 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-27-9w5 {
+  padding-bottom: 7.5rem;
+  align-items: center;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #3badab;
+  box-sizing: border-box;
+  width: 100%;
+  overflow: hidden;
+
+  .logo-without-reverse-2-Vzw {
+    margin-right: 123.4rem;
+    width: 20.6rem;
+    height: 20.6rem;
+    object-fit: cover;
+    vertical-align: top;
+    flex-shrink: 0;
+  }
+  .logo-without-reverse-1-dbM {
+    margin-bottom: 13.3rem;
+    width: 50rem;
+    height: 50rem;
+    object-fit: cover;
+    vertical-align: top;
+    flex-shrink: 0;
+  }
+  .frame-17-yQK {
+    height: 11rem;
+    font-size: 4rem;
+    line-height: 0.92;
+    border-radius: 3rem;
+    display: flex;
+    justify-content: center;
+    white-space: nowrap;
+    border: solid 0.5rem #3badab;
+    font-family: League Spartan, 'Source Sans Pro';
+    background-color: #ffffff;
+    color: #3badab;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    margin: 0 22rem;
+    width: calc(100% - 44rem);
+    align-items: center;
+    font-weight: 700;
+  }
+}

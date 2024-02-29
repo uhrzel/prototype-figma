@@ -1,0 +1,94 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.login-page-admin-i9m {
+  box-sizing: border-box;
+  padding-right: 14.2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+
+  .frame-1-4Dd {
+    box-sizing: border-box;
+    padding: 14.95rem 0.35rem;
+    height: 102.4rem;
+    background-color: #3badab;
+    flex-shrink: 0;
+    margin-right: 16.6rem;
+
+    .e-collectlogo-1-18s {
+      height: 72.5rem;
+      object-fit: cover;
+      vertical-align: top;
+      width: 72.5rem;
+    }
+  }
+  .frame-9-Lwq {
+    margin-bottom: 4.2rem;
+    box-sizing: border-box;
+    padding: 4.4rem 1rem 11.2rem 1rem;
+    width: 40rem;
+    background-color: #ffffff;
+    flex-shrink: 0;
+
+    .login-fjD {
+      margin-bottom: 3.1rem;
+      align-items: center;
+      justify-content: center;
+      font-weight: 700;
+      white-space: nowrap;
+      width: 100%;
+      display: flex;
+      font-size: 4rem;
+      line-height: 0.92;
+      color: #3badab;
+      font-family: League Spartan, 'Source Sans Pro';
+    }
+    .frame-5-o4j {
+      box-sizing: border-box;
+      margin-bottom: 5rem;
+      width: 100%;
+      height: 4.2rem;
+      border: solid 0.1rem #000000;
+    }
+    .frame-8-jyy {
+      box-sizing: border-box;
+      margin-bottom: 5rem;
+      width: 100%;
+      height: 4.2rem;
+      border: solid 0.1rem #000000;
+    }
+    .frame-11-tby {
+      color: #ffffff;
+      white-space: nowrap;
+      width: 100%;
+      display: flex;
+      font-family: League Spartan, 'Source Sans Pro';
+      font-size: 2.4rem;
+      height: 4.2rem;
+      justify-content: center;
+      line-height: 0.92;
+      border: solid 0.1rem #000000;
+      box-sizing: border-box;
+      background-color: #3badab;
+      align-items: center;
+      font-weight: 400;
+    }
+  }
+}

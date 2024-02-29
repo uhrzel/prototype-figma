@@ -1,0 +1,139 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-6-KNF {
+  background-color: #ededed;
+  box-sizing: border-box;
+  padding-right: 9.5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+
+  .frame-10-44w {
+    position: relative;
+    background-color: #3badab;
+    flex-shrink: 0;
+    margin: 0rem 10.5rem 0.6rem 0rem;
+    width: 42rem;
+    height: 101.8rem;
+
+    .home-profile-dashboard-notification-BfM {
+      position: absolute;
+      left: 10rem;
+      top: 8.85rem;
+      font-weight: 900;
+      line-height: 1.2125;
+      color: #ffffff;
+      width: 17.5rem;
+      height: 84.4rem;
+      font-size: 2.4rem;
+      font-family: Inter, 'Source Sans Pro';
+    }
+    .e-collectlogo-2-4j9 {
+      top: 0.3rem;
+      object-fit: cover;
+      vertical-align: top;
+      width: 28.2rem;
+      height: 28.2rem;
+      position: absolute;
+      left: 6.9rem;
+    }
+  }
+  .auto-group-bxi7-aBh {
+    margin-bottom: 2rem;
+    width: 82rem;
+    flex-shrink: 0;
+
+    .redeem-rewards-JtP {
+      font-size: 4rem;
+      font-weight: 700;
+      line-height: 0.92;
+      color: #3badab;
+      font-family: League Spartan, 'Source Sans Pro';
+      white-space: nowrap;
+      margin-bottom: 2.7rem;
+      display: flex;
+    }
+    .auto-group-qgqu-qdR {
+      width: 100%;
+      height: 80rem;
+      position: relative;
+
+      .frame-14-Pew {
+        padding: 19.8rem 13.5rem 19.2rem 13.5rem;
+        height: 75rem;
+        left: 0;
+        background-color: #3badab;
+        border-radius: 5rem;
+        flex-direction: column;
+        box-sizing: border-box;
+        width: 82rem;
+        position: absolute;
+        top: 0;
+        row-gap: 9rem;
+        align-items: center;
+        display: flex;
+
+        .rectangle-11-6JT {
+          width: 100%;
+          height: 6rem;
+          border: solid 0.1rem #000000;
+          box-sizing: border-box;
+          background-color: #ffffff;
+          flex-shrink: 0;
+        }
+        .rectangle-12-2C7 {
+          height: 6rem;
+          border: solid 0.1rem #000000;
+          box-sizing: border-box;
+          background-color: #ffffff;
+          flex-shrink: 0;
+          width: 100%;
+        }
+        .rectangle-13-Zxj {
+          height: 6rem;
+          border: solid 0.1rem #000000;
+          box-sizing: border-box;
+          background-color: #ffffff;
+          flex-shrink: 0;
+          width: 100%;
+        }
+      }
+      .frame-16-uWo {
+        position: absolute;
+        font-weight: 700;
+        line-height: 0.92;
+        white-space: nowrap;
+        box-sizing: border-box;
+        border-radius: 5rem;
+        left: 47.6rem;
+        align-items: center;
+        font-size: 2.4rem;
+        color: #000000;
+        background-color: #ffffff;
+        width: 30rem;
+        height: 10rem;
+        top: 70rem;
+        display: flex;
+        justify-content: center;
+        font-family: League Spartan, 'Source Sans Pro';
+        border: solid 0.5rem #000000;
+      }
+    }
+  }
+}
